@@ -37,8 +37,8 @@ This project relies on Weibo's public API. The Weibo API may have access restric
 - 上海地铁的客流数据通常在次日发布，因此无法查询当日的实时客流。<br>
 Shanghai Metro traffic data is usually released the next day, so real-time traffic for the current day cannot be queried.
 
-- 在 headers 中设置 ```User-Agent``` 是为了模拟浏览器行为，降低被识别为爬虫的风险。如果遇到访问问题，可以尝试更新 User-Agent 为最新的浏览器信息。<br>
-Setting ```User-Agent``` in headers is to simulate browser behaviour and reduce the risk of being identified as a crawler. If you encounter access issues, try updating the User-Agent to the latest browser information.
+- 在 headers 中设置 ```User-Agent``` 是为了模拟浏览器行为，降低被识别为爬虫的风险。如果遇到访问问题，可以尝试将其更新为最新的浏览器信息。<br>
+Setting ```User-Agent``` in headers is to simulate browser behaviour and reduce the risk of being identified as a crawler. If you encounter access issues, try updating it to the latest browser information.
 
 - 已被注释掉的 ```time.sleep()``` 可以用来添加请求间的随机延迟，以进一步避免被微博服务器限制。如果频繁遇到请求失败，可以考虑启用并调整此项。<br>
 The commented ```time.sleep()``` can be used to add random delays between requests to further avoid being restricted by the Weibo server. If you frequently encounter request failures, consider enabling and adjusting this.
