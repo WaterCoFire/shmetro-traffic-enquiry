@@ -43,6 +43,15 @@ Setting ```User-Agent``` in headers is to simulate browser behaviour and reduce 
 - 已被注释掉的 ```time.sleep()``` 可以用来添加请求间的随机延迟，以进一步避免被微博服务器限制。如果频繁遇到请求失败，可以考虑启用并调整此项。<br>
 The commented ```time.sleep()``` can be used to add random delays between requests to further avoid being restricted by the Weibo server. If you frequently encounter request failures, consider enabling and adjusting this.
 
+- 请把爱心专座留给有需要的乘客。<br>
+Reserve courtesy seats for those in need.
+
+- 地铁内严禁乞讨、卖艺、兜售、散发小广告等行为。<br>
+Begging, performing, peddling, and distributing flyers are strictly prohibited on the train.
+
+- 上下车当心缝隙，请注意脚下安全。门灯闪烁时，请勿上下车。<br>
+Be careful of gaps when getting on or off the train, and mind your step. Don't get on or off when the light is flashing.
+
 ## Contribution
 
 Contributions of any kind are welcome! If you have suggestions for improvement, find a bug, or want to add a new feature, please feel free to submit a Pull Request or create an Issue.
