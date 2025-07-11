@@ -50,7 +50,7 @@ Reserve courtesy seats for those in need.
 Begging, performing, peddling, and distributing flyers are strictly prohibited on the train.
 
 - 上下车当心缝隙，请注意脚下安全。门灯闪烁时，请勿上下车。<br>
-Be careful of gaps when getting on or off the train, and mind your step. Don't get on or off when the light is flashing.
+Be careful of the gap when getting on or off the train, and mind your step. Don't get on or off when the light is flashing.
 
 ## Contribution
 
