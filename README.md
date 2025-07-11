@@ -12,23 +12,22 @@ Shanghai Metro's daily traffic data is typically released the following day via 
 
 ## Features
 
-- 查询昨日客流：获取前一天的上海地铁总客流数据。<br>
-Query Yesterday's Traffic: Get the total Shanghai Metro traffic data for the previous day.
+- 查询昨日客流：获取前一天的上海地铁总客流数据<br>
+Query Yesterday's Traffic: Get the total Shanghai Metro traffic data for the previous day
 
-- 查询指定日期客流：支持查询任意历史日期的客流数据（只要微博有记录）。<br>
-Query Traffic on Specific Date: Supports querying traffic data for any historical date (as long as it's recorded on Weibo).
+- 查询指定日期客流：支持查询任意历史日期的客流数据（只要微博有记录）<br>
+Query Traffic on Specific Date: Supports querying traffic data for any historical date (as long as it's recorded on Weibo)
 
-- API 连接测试：提供测试功能，验证与微博 API 的连接是否正常。<br>
-API Connection Test: Provides a test function to verify the connection to the Weibo API.
+- API 连接测试：提供测试功能，验证与微博 API 的连接是否正常<br>
+API Connection Test: Provides a test function to verify the connection to the Weibo API
 
 - 各类错误处理机制以及自动重试机制<br>
 Various error handling mechanisms and automatic retry mechanisms
 
-## Dependency
+## Dependencies
 
-```
-pip install requests pytz
-```
+- ```requests```
+- ```pytz```
 
 ## Notes
 
