@@ -49,6 +49,9 @@ Reserve courtesy seats for those in need.
 - 地铁内严禁乞讨、卖艺、兜售、散发小广告等行为。<br>
 Begging, performing, peddling, and distributing flyers are strictly prohibited on the train.
 
+- 使用电子设备时禁止外放声音。不得在列车车厢内饮食。<br>
+No loudspeakers when using electronic devices. No eating or drinking on the train.
+
 - 上下车当心缝隙，请注意脚下安全。门灯闪烁时，请勿上下车。<br>
 Be careful of the gap when getting on or off the train, and mind your step. Don't get on or off when the light is flashing.
 
